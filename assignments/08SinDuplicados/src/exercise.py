@@ -15,8 +15,7 @@ def main():
         print(listaSinDuplicados)
     else:
         print("Error")
-
-    
+ 
 
 if __name__=='__main__':
     main()
